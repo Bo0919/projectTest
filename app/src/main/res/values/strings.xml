@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">wk10</string>
+    <string name="btnStudent">Student Activity</string>
+    <string name="btnTo2nd">wk10</string>
+    <string name="name">Enter name</string>
+    <string name="number">Enter student ID</string>
+    <string name="cellNum">Enter cell number</string>
+    <string name="courseID">Enter course ID</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnView">View the data</string>
+    <string name="dataView"></string>
+    <string name="btnFor3rd">Jump to 3rd act</string>
+    <string name="enterID">Enter ID</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnReturn">Return</string>
+</resources>
