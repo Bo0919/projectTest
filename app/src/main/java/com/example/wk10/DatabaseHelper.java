@@ -20,6 +20,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
 // to add new commit
 
+    //added newest commit
+
     public DatabaseHelper(@Nullable Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
         SQLiteDatabase sqLiteDatabase = this.getWritableDatabase();
