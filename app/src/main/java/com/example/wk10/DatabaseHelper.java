@@ -18,7 +18,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     final static String T1COL4 = "Cell";
     final static String T1COL5 = "Cid";
 
-
+// to add new commit
 
     public DatabaseHelper(@Nullable Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
